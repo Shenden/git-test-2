@@ -1,5 +1,10 @@
 body{
   max-width: 50%;
   margin: 10% auto;
-  background: lavender;
+  background: tomato;
+
+}
+
+p{
+  color: white;
 }
